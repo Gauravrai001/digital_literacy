@@ -1,5 +1,6 @@
  Stay Safe Online — Checklist for College Students (India)
-Use strong and unique passwords for all accounts; avoid using the same password everywhere.
+ 
+ Use strong and unique passwords for all accounts; avoid using the same password everywhere.
  Enable two-factor authentication (2FA) on apps like email, social media, and banking.
  Never share your OTP, passwords, or personal details with anyone—even if they claim to be from a bank or company.
  Be careful while using public Wi-Fi; avoid logging into banking or important accounts on unsecured networks.

@@ -1,6 +1,6 @@
 Do’s
 
- Think before you post—ensure your content is respectful and appropriate.
+ Think before you post—ensure your content is respectful and appropriate.                                                                                            
  Protect your privacy by adjusting account settings and limiting personal information.
  Verify information before sharing to avoid spreading misinformation.
  Use strong passwords and enable two-factor authentication.
